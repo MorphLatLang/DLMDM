@@ -1,0 +1,87 @@
+LEMID	WFID	SGID	ROOTID	PARENTID	PARENTRES	CORLEMID	LEMMA	SEGMENTATION	POS	FEATS	WFTYPE	PARENTFORM	WFCONSTR	WFPHON	SOURCE
+L3298	WF160	SG181	R265	DERIV:L3302	DERIV:apbrīnot	apbrīna	apbrīna	ap-(brīn)-a	NOUN		DERIV	apbrīnot			LVK2018
+L3299	WF160	SG181	R265	DERIV:L3300	DERIV:apbrīnojams	apbrīnojami	apbrīnojami	ap-(brīn)-o-j-am-i	ADV		DERIV	apbrīnojams			LVK2018
+L33	WF1,WF160	SG1,SG181	R1,R265	COMP:L3344+L23	COMP:brīnums+ābols	brīnumābols	brīnumābols	(brīn)-um-(āb)-ol-s	NOUN		COMP	brīnums+ābols	"brīnuma ābols"		LVK2018
+L330	WF9	SG11	R13	COMP:rubīns+L277	COMP:UNR+acs	rubīnacs	rubīnacs	(rubīn)-ac-s	NOUN		COMP	rubīns+acs	"rubīna acs"		LVK2018
+L3300	WF160	SG181	R265	DERIV:L3302	DERIV:apbrīnot	apbrīnojams	apbrīnojams	ap-(brīn)-o-j-am-s	VERB	VerbForm=Part	DERIV	apbrīnot		apbrīnoju	LVK2018
+L3301	WF160	SG181	R265	DERIV:L3302	DERIV:apbrīnot	apbrīnošana	apbrīnošana	ap-(brīn)-o-šan-a	NOUN		DERIV	apbrīnot			LVK2018
+L3302	WF160	SG181	R265	DERIV:brīnot	DERIV:UNR	apbrīnot	apbrīnot	ap-(brīn)-o-t	VERB		DERIV	brīnot			LVK2018
+L3303	WF160	SG181	R265	DERIV:L3302	DERIV:apbrīnot	apbrīnotājs	apbrīnotājs	ap-(brīn)-o-tāj-s	NOUN		DERIV	apbrīnot			LVK2018
+L3304	WF160	SG181	R265	DERIV:L3302	DERIV:apbrīnot	apbrīns	apbrīns	ap-(brīn)-s	NOUN		DERIV	apbrīnot			LVK2018
+L3305	WF160	SG181	R265	DERIV:brīnēt	DERIV:UNR	brīnēdams	brīnēties	(brīn)-ē-ties	VERB		DERIV	brīnēt			LVK2018
+L3306	WF160	SG181	R265	DERIV:L3309	DERIV:brīnišķs	brīnišķi	brīnišķi	(brīn)-išķ-i	ADV		DERIV	brīnišķs			LVK2018
+L3307	WF160	SG181	R265	DERIV:L3308	DERIV:brīnišķīgs	brīnišķīgi	brīnišķīgi	(brīn)-išķ-īg-i	ADV		DERIV	brīnišķīgs			LVK2018
+L3308	WF160	SG181	R265	DERIV:L3309	DERIV:brīnišķs	brīnišķīgs	brīnišķīgs	(brīn)-išķ-īg-s	ADJ		DERIV	brīnišķs			LVK2018
+L3309	WF160	SG181	R265	DERIV:L3313	DERIV:brīns	brīnišķs	brīnišķs	(brīn)-išķ-s	ADJ		DERIV	brīns			LVK2018
+L331	WF9	SG11	R13	DERIV:L334	DERIV:sarkanacu	sarkanacains_adj	sarkanacains	(sark)-an-(ac)-ain-s	ADJ		DERIV	sarkanacu			Tīmeklis2020
+L3310	WF160	SG181	R265	DERIV:L3312	DERIV:brīnīties	brīnīdamies	brīnīdamies	(brīn)-ī-dam-ies	VERB	VerbForm=Part	DERIV	brīnīties			LVK2018
+L3311	WF160	SG181	R265	DERIV:L3312	DERIV:brīnīties	brīnīšanās	brīnīšanās	(brīn)-ī-šan-ās	NOUN		DERIV	brīnīties			LVK2018
+L3312	WF160	SG181	R265	DERIV:brīnīt	DERIV:UNR	brīnīties	brīnīties	(brīn)-ī-ties	VERB		DERIV	brīnīt			LVK2018
+L3313	WF160	SG181	R265			brīns	brīns	(brīn)-s	NOUN		NONE				LVK2018
+L3314	WF160	SG181	R265	DERIV:L3344	DERIV:brīnums	brīnum	brīnum	(brīn)-um	ADV		DERIV	brīnums			LVK2018
+L3315	WF160	SG181	R265	DERIV:L3316	DERIV:brīnumains	brīnumaini	brīnumaini	(brīn)-um-ain-i	ADV		DERIV	brīnumains			LVK2018
+L3316	WF160	SG181	R265	DERIV:L3344	DERIV:brīnums	brīnumains	brīnumains	(brīn)-um-ain-s	ADJ		DERIV	brīnums			LVK2018
+L3317	WF160	SG181	R265	COMP:L3344+daiļš	COMP:brīnums+UNR	brīnumdaiļa	brīnumdaiļš	(brīn)-um-(daiļ)-š	ADJ		COMP	brīnums+daiļš	"brīnuma daiļš"		LVK2018
+L3318	WF160,WF246	SG181,SG271	R265,R404	COMP:L3344+L5239	COMP:brīnums+darbs	brīnumdarbs	brīnumdarbs	(brīn)-um-(darb)-s	NOUN		COMP	brīnums+darbs	"brīnuma darbs"		LVK2018
+L3319	WF160,WF246	SG181,SG272	R265,R406	COMP:L3344+L5431	COMP:brīnums+darīt	brīnumdare	brīnumdare	(brīn)-um-(dar)-e	NOUN		COMP	brīnums+darīt	"brīnumu darīt;brīnumus darīt"		LVK2018
+L332	WF9	SG11	R13	DERIV:L334;COMP:sarkans+L277	DERIV:sarkanacu;COMP:UNR+acs	sarkanace	sarkanace	(sark)-an-(ac)-e	NOUN		DERIV;COMP	sarkanacu;sarkans+acs	"sarkanu acu;sarkanām acīm"		LVK2018
+L3320	WF160,WF246	SG181,SG272	R265,R406	COMP:L3344+L5431	COMP:brīnums+darīt	brīnumdaris	brīnumdaris	(brīn)-um-(dar)-is	NOUN		COMP	brīnums+darīt	"brīnumu darīt;brīnumus darīt"		LVK2018
+L3321	WF160,WF246	SG181,SG272	R265,R406	COMP:L3344+L5433	COMP:brīnums+darītājs	brīnumdarītāja	brīnumdarītāja	(brīn)-um-(dar)-ī-tāj-a	NOUN		COMP	brīnums+darītājs	"brīnumu darītāja"		LVK2018
+L3322	WF160,WF246	SG181,SG272	R265,R406	COMP:L3344+L5433	COMP:brīnums+darītājs	brīnumdarītājs	brīnumdarītājs	(brīn)-um-(dar)-ī-tāj-s	NOUN		COMP	brīnums+darītājs	"brīnumu darītājs"		LVK2018
+L3323	WF160,WF244	SG181,SG269	R265,R401	COMP:L3344+L4987	COMP:brīnums+dārzs	brīnumdārzs	brīnumdārzs	(brīn)-um-(dārz)-s	NOUN		COMP	brīnums+dārzs	"brīnumu dārzs"		LVK2018
+L3324	WF160,WF306	SG181,SG348	R265,R527	COMP:L3344+L7602	COMP:brīnums+dzēriens	brīnumdzēriens	brīnumdzēriens	(brīn)-um-(dzēr)-ien-s	NOUN		COMP	brīnums+dzēriens	"brīnuma dzēriens"		LVK2018
+L3325	WF160,WF306	SG181,SG348	R265,R529	COMP:L3344+L7527	COMP:brīnums+dzira	brīnumdzirs	brīnumdzira	(brīn)-um-(dzir)-a	NOUN		COMP	brīnums+dzira	"brīnuma dzira"		LVK2018
+L3326	WF160	SG181	R265	COMP:L3344+feja	COMP:brīnums+UNR	brīnumfeja	brīnumfeja	(brīn)-um-(fej)-a	NOUN		COMP	brīnums+feja	"brīnuma feja"		LVK2018
+L3327	WF160	SG181	R265	COMP:L3344+gards	COMP:brīnums+UNR	brīnumgards	brīnumgards	(brīn)-um-(gard)-s	ADJ		COMP	brīnums+gards	"brīnuma gards"		LVK2018
+L3328	WF160	SG181	R265	COMP:L3344+grāmata	COMP:brīnums+UNR	brīnumgrāmats	brīnumgrāmata	(brīn)-um-(grāmat)-a	NOUN		COMP	brīnums+grāmata	"brīnumu grāmata"		LVK2018
+L3329	WF160	SG181	R265	COMP:L3344+instruments	COMP:brīnums+UNR	brīnuminstruments	brīnuminstruments	(brīn)-um-(instrument)-s	NOUN		COMP	brīnums+instruments	"brīnumu instruments"		LVK2018
+L333	WF9	SG11	R13	DERIV:L334;COMP:sarkans+L277	DERIV:sarkanacu;COMP:UNR+acs	sarkanacis	sarkanacis	(sark)-an-(ac)-is	NOUN		DERIV;COMP	sarkanacu;sarkans+acs	"sarkanu acu;sarkanām acīm"		LVK2018
+L3330	WF160	SG181	R265	DERIV:L3344	DERIV:brīnums	brīnumiņš	brīnumiņš	(brīn)-um-iņ-š	NOUN		DERIV	brīnums			LVK2018
+L3331	WF160	SG181	R265	DERIV:L3332	DERIV:brīnumjauks	brīnumjauki	brīnumjauki	(brīn)-um-(jauk)-i	ADV		DERIV	brīnumjauks			LVK2018
+L3332	WF160	SG181	R265	COMP:L3344+jauks	COMP:brīnums+UNR	brīnumjauks	brīnumjauks	(brīn)-um-(jauk)-s	ADJ		COMP	brīnums+jauks	"brīnuma jauks"		LVK2018
+L3333	WF160	SG181	R265	COMP:L3344+laboratorija	COMP:brīnums+UNR	brīnumlaboratorija	brīnumlaboratorija	(brīn)-um-(laborator)-ij-a	NOUN		COMP	brīnums+laboratorija	"brīnumu laboratorija"		LVK2018
+L3334	WF160	SG181	R265	COMP:L3344+lieta	COMP:brīnums+UNR	brīnumliets	brīnumlieta	(brīn)-um-(liet)-a	NOUN		COMP	brīnums+lieta	"brīnuma lieta"		LVK2018
+L3335	WF160	SG181	R265	COMP:L3344+līdzeklis	COMP:brīnums+UNR	brīnumlīdzeklis	brīnumlīdzeklis	(brīn)-um-(līdz)-ekl-is	NOUN		COMP	brīnums+līdzeklis	"brīnuma līdzeklis"		LVK2018
+L3336	WF160	SG181	R265	DERIV:brīnumnūja	DERIV:UNR	brīnumnūjiņa	brīnumnūjiņa	(brīn)-um-(nūj)-iņ-a	NOUN		DERIV	brīnumnūja			LVK2018
+L3337	WF160	SG181	R265	COMP:L3344+pasaka	COMP:brīnums+UNR	brīnumpasaka	brīnumpasaka	(brīn)-um-pa-(sak)-a	NOUN		COMP	brīnums+pasaka	"brīnumu pasaka"		LVK2018
+L3338	WF160	SG181	R265	COMP:L3344+plāksteris	COMP:brīnums+UNR	brīnumplāksteris	brīnumplāksteris	(brīn)-um-(plākster)-is	NOUN		COMP	brīnums+plāksteris	"brīnuma plāksteris"		LVK2018
+L3339	WF160	SG181	R265	DERIV:brīnumpuisis	DERIV:UNR	brīnumpuisīšs	brīnumpuisītis	(brīn)-um-(puis)-īt-is	NOUN		DERIV	brīnumpuisis			LVK2018
+L334	WF9	SG11	R13	COMP:sarkans+L277	COMP:UNR+acs	sarkanacu_genitiv	sarkanacu	(sark)-an-(ac)-u	NOUN	NounClass=Gen	COMP	sarkans+acs	"sarkanu acu"		Tīmeklis2020
+L3340	WF160	SG181	R265	COMP:L3344+puķe	COMP:brīnums+UNR	brīnumpuķe	brīnumpuķe	(brīn)-um-(puķ)-e	NOUN		COMP	brīnums+puķe	"brīnuma puķe"		LVK2018
+L3341	WF160	SG181	R265	COMP:L3344+pulkstenis	COMP:brīnums+UNR	brīnumpulkstenis	brīnumpulkstenis	(brīn)-um-(pulkst)-en-is	NOUN		COMP	brīnums+pulkstenis	"brīnuma pulkstenis"		LVK2018
+L3342	WF160	SG181	R265	COMP:L3344+putns	COMP:brīnums+UNR	brīnumputns	brīnumputns	(brīn)-um-(putn)-s	NOUN		COMP	brīnums+putns	"brīnuma putns"		LVK2018
+L3343	WF160	SG181	R265	COMP:L3344+risinājums	COMP:brīnums+UNR	brīnumrisinājums	brīnumrisinājums	(brīn)-um-(ris)-inā-j-um-s	NOUN		COMP	brīnums+risinājums	"brīnuma risinājums"		LVK2018
+L3344	WF160	SG181	R265	DERIV:L3313	DERIV:brīns	brīnums	brīnums	(brīn)-um-s	NOUN		DERIV	brīns			LVK2018
+L3345	WF160	SG181	R265	COMP:L3344+salds	COMP:brīnums+UNR	brīnumsalds	brīnumsalds	(brīn)-um-(sald)-s	ADJ		COMP	brīnums+salds	"brīnuma salds"		LVK2018
+L3346	WF160	SG181	R265	COMP:L3344+sapnis	COMP:brīnums+UNR	brīnumsapņs	brīnumsapnis	(brīn)-um-(sapn)-is	NOUN		COMP	brīnums+sapnis	"brīnumu sapnis"		LVK2018
+L3347	WF160,WF245	SG181,SG270	R265,R403	COMP:L3344+L5070	COMP:brīnums+sastāvdaļa	brīnumsastāvdaļa	brīnumsastāvdaļa	(brīn)-um-sa-(stā)-v-(daļ)-a	NOUN		COMP	brīnums+sastāvdaļa	"brīnuma sastāvdaļa"		LVK2018
+L3348	WF160	SG181	R265	DERIV:L3349	DERIV:brīnumskaists	brīnumskaisti	brīnumskaisti	(brīn)-um-(skaist)-i	ADV		DERIV	brīnumskaists			LVK2018
+L3349	WF160	SG181	R265	COMP:L3344+skaists	COMP:brīnums+UNR	brīnumskaists	brīnumskaists	(brīn)-um-(skaist)-s	ADJ		COMP	brīnums+skaists	"brīnuma skaists"		LVK2018
+L335	WF9	SG11	R13	DERIV:sedzacu	DERIV:UNR	sedzace_sugasv	sedzace	(sedz)-(ac)-e	NOUN		DERIV	sedzacu			LitMāksla
+L3350	WF160	SG181	R265	COMP:L3344+skapis	COMP:brīnums+UNR	Brīnumskapis	brīnumskapis	(brīn)-um-(skap)-is	NOUN		COMP	brīnums+skapis	"brīnumu skapis"		LVK2018
+L3351	WF160	SG181	R265	COMP:L3344+svece	COMP:brīnums+UNR	brīnumsvece	brīnumsvece	(brīn)-um-(svec)-e	NOUN		COMP	brīnums+svece	"brīnuma svece"		LVK2018
+L3352	WF160	SG181	R265	DERIV:L3351	DERIV:brīnumsvece	brīnumsvecīte	brīnumsvecīte	(brīn)-um-(svec)-īt-e	NOUN		DERIV	brīnumsvece			LVK2018
+L3353	WF160	SG181	R265	DERIV:brīnumtablete	DERIV:UNR	brīnumtabletīte	brīnumtabletīte	(brīn)-um-(tablet)-īt-e	NOUN		DERIV	brīnumtablete			LVK2018
+L3354	WF160	SG181	R265	COMP:L3344+terapeits	COMP:brīnums+UNR	brīnumterapeits	brīnumterapeits	(brīn)-um-(terapeit)-s	NOUN		COMP	brīnums+terapeits	"brīnuma terapeits"		LVK2018
+L3355	WF160	SG181	R265	COMP:L3344+vārds	COMP:brīnums+UNR	Brīnumvārds	brīnumvārds	(brīn)-um-(vārd)-s	NOUN		COMP	brīnums+vārds	"brīnuma vārds"		LVK2018
+L3356	WF160	SG181	R265	COMP:L3344+veča	COMP:brīnums+UNR	brīnumveča	brīnumveča	(brīn)-um-(več)-a	NOUN		COMP	brīnums+veča	"brīnumu veča"		LVK2018
+L3357	WF160	SG181	R265	COMP:L3344+vērtīgs	COMP:brīnums+UNR	brīnumvērtīgs	brīnumvērtīgs	(brīn)-um-(vērt)-īg-s	ADJ		COMP	brīnums+vērtīgs	"brīnuma vērtīgs"		LVK2018
+L3358	WF160	SG181	R265	COMP:L3344+zāles	COMP:brīnums+UNR	brīnumzāle	brīnumzāles	(brīn)-um-(zāl)-es	NOUN	NounClass=PlTantum	COMP	brīnums+zāles	"brīnuma zāles"		LVK2018
+L3359	WF160	SG181	R265	DERIV:brīnumzāle	DERIV:UNR	brīnumzālīte	brīnumzālīte	(brīn)-um-(zāl)-īt-e	NOUN		DERIV	brīnumzāle			LVK2018
+L336	WF9	SG11	R13	DERIV:L335	DERIV:sedzace	sedzacīte	sedzacīte	(sedz)-(ac)-īt-e	NOUN		DERIV	sedzace			LVK2018
+L3360	WF160	SG181	R265	COMP:L3344+zeme	COMP:brīnums+UNR	brīnumzeme	brīnumzeme	(brīn)-um-(zem)-e	NOUN		COMP	brīnums+zeme	"brīnumu zeme"		LVK2018
+L3361	WF160	SG181	R265	COMP:L3344+zieds	COMP:brīnums+UNR	brīnumzieds	brīnumzieds	(brīn)-um-(zied)-s	NOUN		COMP	brīnums+zieds	"brīnuma zieds"		LVK2018
+L3362	WF160	SG181	R265	DERIV:L3363	DERIV:brīnumzirgs	brīnumzirdziņš	brīnumzirdziņš	(brīn)-um-(zirdz)-iņ-š	NOUN		DERIV	brīnumzirgs			LVK2018
+L3363	WF160	SG181	R265	COMP:L3344+zirgs	COMP:brīnums+UNR	brīnumzirgs	brīnumzirgs	(brīn)-um-(zirg)-s	NOUN		COMP	brīnums+zirgs	"brīnuma zirgs"		LVK2018
+L3364	WF160	SG181	R265	COMP:L3344+zizlis	COMP:brīnums+UNR	brīnumzizlis	brīnumzizlis	(brīn)-um-(zizl)-is	NOUN		COMP	brīnums+zizlis	"brīnumu zizlis"		LVK2018
+L3365	WF160	SG181	R265	COMP:L3344+želeja	COMP:brīnums+UNR	brīnumželejs	brīnumželeja	(brīn)-um-(želej)-a	NOUN		COMP	brīnums+želeja	"brīnuma želeja"		LVK2018
+L3366	WF160,WF250	SG181,SG276	R265,R411	COMP:L5705+L3308	COMP:debess+brīnišķīgs	debesbrīnišķīga	debesbrīnišķīgs	(deb)-es-(brīn)-išķ-īg-s	ADJ		COMP	debess+brīnišķīgs	"debesu brīnišķīgs"		LVK2018
+L3367	WF160	SG181	R265	DERIV:brīnēt	DERIV:UNR	izbrīnēt	izbrīnēt	iz-(brīn)-ē-t	VERB		DERIV	brīnēt			LVK2018
+L3368	WF160	SG181	R265	DERIV:L3367	DERIV:izbrīnēt	izbrīnēties	izbrīnēties	iz-(brīn)-ē-ties	VERB		DERIV	izbrīnēt			LVK2018
+L3369	WF160	SG181	R265	DERIV:brīnīt	DERIV:UNR	izbrīnīt	izbrīnīt	iz-(brīn)-ī-t	VERB		DERIV	brīnīt			LVK2018
+L337	WF9	SG11	R13	DERIV:L338	DERIV:smalkacu	smalkacains	smalkacains	(smalk)-(ac)-ain-s	ADJ		DERIV	smalkacu			LVK2018
+L3370	WF160	SG181	R265	DERIV:L3369	DERIV:izbrīnīt	izbrīnīties	izbrīnīties	iz-(brīn)-ī-ties	VERB		DERIV	izbrīnīt			LVK2018
+L3371	WF160	SG181	R265	DERIV:L3369	DERIV:izbrīnīt	izbrīns	izbrīns	iz-(brīn)-s	NOUN		DERIV	izbrīnīt			LVK2018
+L3372	WF160	SG181	R265	DERIV:L3312	DERIV:brīnīties	nebrīnijās	nebrīnīties	ne-(brīn)-ī-ties	VERB		DERIV	brīnīties			LVK2018
+L3373	WF160	SG181	R265	DERIV:L3312	DERIV:brīnīties	nobrīnīties	nobrīnīties	no-(brīn)-ī-ties	VERB		DERIV	brīnīties			LVK2018
+L3374	WF160	SG181	R265	DERIV:L3312	DERIV:brīnīties	pabrīnīties	pabrīnīties	pa-(brīn)-ī-ties	VERB		DERIV	brīnīties			LVK2018

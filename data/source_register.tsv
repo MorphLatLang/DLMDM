@@ -1,0 +1,25 @@
+SOURCE	FREQUENCY	TYPE	CITATION	PATH
+AkadTerm	1	termbase	Akadēmiskā terminu datubāze AkadTerm	https://www.akadterm.lv
+Barometrs	34	corpus	Corpus of News Portal Comments	https://korpuss.lv/id/Barometrs
+Cīņa	17	corpus	Corpus of texts published in the newspaper Cīņa	https://korpuss.lv/id/Cīņa
+Disertācijas	1	corpus	Corpus of Latvian PhD Theses	http://hdl.handle.net/20.500.12574/93
+Emuāri	1	corpus	Latvian Blog Corpus 2015	http://hdl.handle.net/20.500.12574/79
+Jaunatne	12	corpus	Corpus of texts published in the newspaper Padomju Jaunatne	https://korpuss.lv/id/Jaunatne
+Karogs	29	corpus	Corpus of texts published in the magazine Karogs	http://hdl.handle.net/20.500.12574/83
+LAvīzes	7	corpus	Corpus of texts published in the newspaper Latviešu Avīzes	http://hdl.handle.net/20.500.12574/77
+LPT-teikas	1	corpus	Folk Legend Corpus of LPT	https://korpuss.lv/id/LPT-teikas
+LVK2018	8534	corpus	The Balanced Corpus of Modern Latvian LVK2018	http://hdl.handle.net/20.500.12574/11
+LVK2022	312	corpus	The Balanced Corpus of Modern Latvian LVK2022	http://hdl.handle.net/20.500.12574/84
+LatSenRom	34	corpus	Corpus of Early Latvian Novels	http://hdl.handle.net/20.500.12574/125
+Latvju-dainas	2	corpus	Corpus of Latvian Dainas	https://korpuss.lv/id/Latvju-dainas
+Likumi	3	corpus	Corpus of Legal Acts of the Republic of Latvia	http://hdl.handle.net/20.500.12574/65
+LitMāksla	20	corpus	Corpus of texts published in the newspaper Literatūra un Māksla	http://hdl.handle.net/20.500.12574/81
+MuLa2022	3	corpus	Corpus of Contemporary Latgalian Texts 2022	http://hdl.handle.net/20.500.12574/72
+Rainis	9	corpus	Corpus of Texts Written by Rainis	http://hdl.handle.net/20.500.12574/41
+Saeima	1	corpus	Corpus of the Saeima	http://hdl.handle.net/20.500.12574/50
+Satori-Punctum	1	corpus	Satori and Punctum Fiction Corpus	https://korpuss.lv/id/Satori-Punctum
+Tīmeklis2007	51	corpus	Latvian Web Corpus 2007	http://hdl.handle.net/20.500.12574/46
+Tīmeklis2020	111	corpus	CommonCrawl of Latvian 2020	https://korpuss.lv/id/T%C4%ABmeklis2020
+UNDEF	8	undefined	Source not specified	undefined
+Vikipēdija	6	corpus	Latvian Wikipedia Corpus	http://hdl.handle.net/20.500.12574/64
+Ziņas	34	corpus	Corpus of articles from Latvian news portals	https://korpuss.lv/id/Zi%C5%86as

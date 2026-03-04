@@ -1,0 +1,54 @@
+L1	WF1	SG1	R1			ābele	ābele	(āb)-el-e	NOUN		NONE				LVK2018
+L10	WF1	SG1	R1	DERIV:L23	DERIV:ābols	ābolaine	ābolaine	(āb)-ol-ain-e	NOUN		DERIV	ābols			LVK2018
+L11	WF1,WF268	SG1,SG295	R1,R441	COMP:L23+L6138	COMP:ābols+diena	Āboldiena	Āboldiena	(Āb)-ol-(dien)-a	PROPN		COMP	ābols+diena	"ābolu diena"		LVK2018
+L12	WF1	SG1	R1	SEMANT:L14	SEMANT:āboliņš	Āboliņa	Āboliņa	(Āb)-ol-iņ-a	PROPN		SEMANT	āboliņš			LVK2018
+L13	WF1	SG1	R1	COMP:L14+sēkla	COMP:āboliņš+UNR	āboliņsēkla	āboliņsēkla	(āb)-ol-iņ-(sē)-kl-a	NOUN		COMP	āboliņš+sēkla	"āboliņa sēkla"		LVK2018
+L14	WF1	SG1	R1	DERIV:L23	DERIV:ābols	āboliņš	āboliņš	(āb)-ol-iņ-š	NOUN		DERIV	ābols			LVK2018
+L15	WF1	SG1	R1	SEMANT:L14	SEMANT:āboliņš	Āboliņš_prop	Āboliņš	(Āb)-ol-iņ-š	PROPN		SEMANT	āboliņš			LVK2018
+L16	WF1	SG1	R1	DERIV:L23	DERIV:ābols	ābolītis	ābolītis	(āb)-ol-īt-is	NOUN		DERIV	ābols			LVK2018
+L17	WF1	SG1	R1	COMP:L23+kalns	COMP:ābols+UNR	Ābolkalna_uzv	Ābolkalna	(Āb)-ol-(kal)-n-a	PROPN		COMP	ābols+kalns	"ābola kalns"		Tīmeklis2007
+L18	WF1	SG1	R1	COMP:L23+kalns	COMP:ābols+UNR	Ābolkalne_uzv	Ābolkalne	(Āb)-ol-(kal)-n-e	PROPN		COMP	ābols+kalns	"ābola kalns"		LVK2018
+L19	WF1	SG1	R1	COMP:L23+kalns	COMP:ābols+UNR	Ābolkalns	Ābolkalni	(Āb)-ol-(kal)-n-i	PROPN	PropnClass=PlTantum	COMP	ābols+kalns	"ābola kalni"		LVK2018
+L2	WF1	SG1	R1	DERIV:L1	DERIV:ābele	ābelēna_dem	ābelēna	(āb)-el-ēn-a	NOUN		DERIV	ābele			Tīmeklis2007
+L20	WF1	SG1	R1	COMP:L23+kalns	COMP:ābols+UNR	Ābolkalns_uzv	Ābolkalns	(Āb)-ol-(kal)-n-s	PROPN		COMP	ābols+kalns	"ābola kalns"		LVK2022
+L21	WF1	SG1	R1	COMP:L23+kūka	COMP:ābols+UNR	ābolkūka	ābolkūka	(āb)-ol-(kūk)-a	NOUN		COMP	ābols+kūka	"ābolu kūka"		LVK2018
+L22	WF1	SG1	R1	COMP:L23+maize	COMP:ābols+UNR	ābolmaize	ābolmaize	(āb)-ol-(maiz)-e	NOUN		COMP	ābols+maize	"ābolu maize"		LVK2018
+L23	WF1	SG1	R1			ābols	ābols	(āb)-ol-s	NOUN		NONE				LVK2018
+L24	WF1	SG1	R1	COMP:L23+skābe	COMP:ābols+UNR	ābolskābe	ābolskābe	(āb)-ol-(skāb)-e	NOUN		COMP	ābols+skābe	"ābolu skābe"		LVK2018
+L25	WF1	SG1	R1	SEMANT:L27	SEMANT:āboltiņš	Āboltiņa	Āboltiņa	(Āb)-ol-tiņ-a	PROPN		SEMANT	āboltiņš			LVK2018
+L26	WF1	SG1	R1	SEMANT:L27	SEMANT:āboltiņš	Āboltiņš	Āboltiņš	(Āb)-ol-tiņ-š	PROPN		SEMANT	āboltiņš			LVK2018
+L27	WF1	SG1	R1	DERIV:L23	DERIV:ābols	āboltiņš_sugasv	āboltiņš	(āb)-ol-tiņ-š	NOUN		DERIV	ābols			Karogs
+L28	WF1	SG1	R1	COMP:L23+zaļš	COMP:ābols+UNR	ābolzaļš	ābolzaļš	(āb)-ol-(zaļ)-š	ADJ		COMP	ābols+zaļš	"ābola zaļš"		LVK2018
+L29	WF1	SG1	R1	COMP:L23+zāle	COMP:ābols+UNR	ābolzāle	ābolzāle	(āb)-ol-(zāl)-e	NOUN		COMP	ābols+zāle	"ābolu zāle"		LVK2018
+L3	WF1	SG1	R1	SEMANT:L1	SEMANT:ābele	Ābele	Ābele	(Āb)-el-e	PROPN		SEMANT	ābele			LVK2018
+L30	WF1	SG1	R1	COMP:Ādams+L23	COMP:UNR+ābols	ādamābols	ādamābols	(ādam)-(āb)-ol-s	NOUN		COMP	Ādams+ābols	"Ādama ābols"		LVK2018
+L31	WF1	SG1	R1	COMP:avene+L23	COMP:UNR+ābols	aveņābols_sugasv	aveņābols	(av)-eņ-(āb)-ol-s	NOUN		COMP	avene+ābols	"aveņu ābols"		LatSenRom
+L32	WF1	SG1	R1	COMP:bite+L14	COMP:UNR+āboliņš	bišāboliņš_sugasv	bišāboliņš	(biš)-(āb)-ol-iņ-š	NOUN		COMP	bite+āboliņš	"bišu āboliņš"		Tīmeklis2007
+L33	WF1,WF160	SG1,SG181	R1,R265	COMP:L3344+L23	COMP:brīnums+ābols	brīnumābols	brīnumābols	(brīn)-um-(āb)-ol-s	NOUN		COMP	brīnums+ābols	"brīnuma ābols"		LVK2018
+L34	WF1	SG1	R1	COMP:bumbieris+L1	COMP:UNR+ābele	bumbierābele	bumbierābele	(bumbier)-(āb)-el-e	NOUN		COMP	bumbieris+ābele	"bumbieru ābele"		LVK2018
+L35	WF1	SG1	R1	COMP:bumbieris+L23	COMP:UNR+ābols	bumbierābols_sugasv	bumbierābols	(bumbier)-(āb)-ol-s	NOUN		COMP	bumbieris+ābols	"bumbieru ābols"		LVK2022
+L36	WF1	SG1	R1	COMP:granāts+L23	COMP:UNR+ābols	granātābols	granātābols	(granāt)-(āb)-ol-s,(gran)-āt-(āb)-ol-s	NOUN		COMP	granāts+ābols	"granāta ābols"		LVK2018
+L37	WF1	SG1	R1	COMP:kaza+L14	COMP:UNR+āboliņš	kazāboliņš	kazāboliņš	(kaz)-(āb)-ol-iņ-š	NOUN		COMP	kaza+āboliņš	"kazu āboliņš"		LVK2018
+L38	WF1	SG1	R1	COMP:mežs+L1	COMP:UNR+ābele	mežābele	mežābele	(mež)-(āb)-el-e	NOUN		COMP	mežs+ābele	"meža ābele"		LVK2018
+L39	WF1	SG1	R1	COMP:mežs+L23	COMP:UNR+ābols	mežābols	mežābols	(mež)-(āb)-ol-s	NOUN		COMP	mežs+ābols	"meža ābols"		LVK2018
+L4	WF1	SG1	R1	DERIV:L1	DERIV:ābele	ābelīte	ābelīte	(āb)-el-īt-e	NOUN		DERIV	ābele			LVK2018
+L40	WF1	SG1	R1	COMP:punduris+L1	COMP:UNR+ābele	pundurābele	pundurābele	(pundur)-(āb)-el-e	NOUN		COMP	punduris+ābele	"pundura ābele"		LVK2018
+L41	WF1	SG1	R1	COMP:roze+L1	COMP:UNR+ābele	rožābele_sugasv	rožābele	(rož)-(āb)-el-e	NOUN		COMP	roze+ābele	"rožu ābele"		LVK2018
+L42	WF1	SG1	R1	COMP:roze+L23	COMP:UNR+ābols	rožābols	rožābols	(rož)-(āb)-ol-s	NOUN		COMP	roze+ābols	"rožu ābols"		LVK2018
+L43	WF1	SG1	R1	COMP:siers+L14	COMP:UNR+āboliņš	sierāboliņš	sierāboliņš	(sier)-(āb)-ol-iņ-š	NOUN		COMP	siers+āboliņš	"siera āboliņš"		LVK2018
+L44	WF1	SG1	R1	COMP:vilks+L1	COMP:UNR+ābele	vilkābele	vilkābele	(vilk)-(āb)-el-e	NOUN		COMP	vilks+ābele	"vilku ābele"		LVK2018
+L45	WF1	SG1	R1	COMP:zelts+L1	COMP:UNR+ābele	zeltābele_sugasv	zeltābele	(zel)-t-(āb)-el-e	NOUN		COMP	zelts+ābele	"zelta ābele"		Latvju-dainas
+L46	WF1	SG1	R1	COMP:zelts+L23	COMP:UNR+ābols	zeltābols	zeltābols	(zel)-t-(āb)-ol-s	NOUN		COMP	zelts+ābols	"zelta ābols"		LVK2018
+L47	WF1	SG1	R1	COMP:zemene+L23	COMP:UNR+ābols	zemeņābols_sugasv	zemeņābols	(zem)-eņ-(āb)-ol-s	NOUN		COMP	zemene+ābols	"zemeņu ābols"		Tīmeklis2020
+L48	WF1	SG1	R1	COMP:zirgs+L23	COMP:UNR+ābols	zirgābols	zirgābols	(zirg)-(āb)-ol-s	NOUN		COMP	zirgs+ābols	"zirga ābols"		LVK2018
+L49	WF1	SG2	R2	COMP:L51+daiviņa	COMP:apelsīns+UNR	Apelsīndaiviņa	apelsīndaiviņa	(apelsīn)-(daiv)-iņ-a,(apel)-(sīn)-(daiv)-iņ-a	NOUN		COMP	apelsīns+daiviņa	"apelsīna daiviņa"		LVK2018
+L5	WF1	SG1	R1	SEMANT:L4	SEMANT:ābelīte	ābelīte_prop	Ābelīte	(Āb)-el-īt-e	PROPN		SEMANT	ābelīte			LVK2018
+L50	WF1	SG2	R2	COMP:L51+krāsa	COMP:apelsīns+UNR	apelsīnkrasas	apelsīnkrāsa	(apelsīn)-(krās)-a,(apel)-(sīn)-(krās)-a	NOUN		COMP	apelsīns+krāsa	"apelsīna krāsa"		LVK2018
+L51	WF1	SG2	R2			apelsīns	apelsīns	(apelsīn)-s,(apel)-(sīn)-s	NOUN		NONE				LVK2018
+L52	WF1	SG2	R2	COMP:puse+L51	COMP:UNR+apelsīns	pusapelsīns	pusapelsīns	(pus)-(apelsīn)-s,(pus)-(apel)-(sīn)-s	NOUN		COMP	puse+apelsīns	"puse apelsīna"		LVK2018
+L53	WF1	SG3	R3			Apfelbauma_uzv	Apfelbauma	(Apfelbaum)-a,(Apfel)-(baum)-a	PROPN		NONE				LVK2022
+L54	WF1	SG3	R3			Apfelbaums_uzv	Apfelbaums	(Apfelbaum)-s,(Apfel)-(baum)-s	PROPN		NONE				LVK2018
+L6	WF1,WF244	SG1,SG269	R1,R401	COMP:L1+L4987	COMP:ābele+dārzs	ābeļdārzs	ābeļdārzs	(āb)-eļ-(dārz)-s	NOUN		COMP	ābele+dārzs	"ābeļu dārzs"		LVK2018
+L7	WF1	SG1	R1	COMP:L1+zieds	COMP:ābele+UNR	ābeļzieds	ābeļzieds	(āb)-eļ-(zied)-s	NOUN		COMP	ābele+zieds	"ābeļu zieds"		LVK2018
+L8	WF1	SG1	R1	SEMANT:L23	SEMANT:ābols	Ābola	Ābola	(Āb)-ol-a	PROPN		SEMANT	ābols			LVK2018
+L9	WF1	SG1	R1	SEMANT:L23	SEMANT:ābols	Ābols_prop	Ābols	(Āb)-ol-s	PROPN		SEMANT	ābols			LVK2018

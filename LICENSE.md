@@ -1,15 +1,19 @@
-### CC0 1.0 Universal (Public Domain)
+<p align="left">
+  <img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="CC BY 4.0" width="88" height="31">
+</p>
 
-The contents of this repository are released into the public domain under the
-CC0 1.0 Universal dedication.
+### CC BY 4.0
+
+The contents of this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 You may copy, modify, distribute, and use the data for any purpose, without asking permission.
 
-Full legal text of the CC0 1.0 Universal license:  
-https://creativecommons.org/publicdomain/zero/1.0/
+Full legal text of the CC BY 4.0 license:  
+https://creativecommons.org/licenses/by/4.0/
 
-### Attribution (not legally required, but appreciated)
+### Attribution
 
-If you use this dataset in research, teaching, or applications, please cite the
-*Database of Latvian Morphemes and Derivational Models (DLMDM)* project as the
-source.
+If you use this dataset in research, teaching, or applications, please cite the DLMDM project:
+
+
+Kalnača, Andra, Pakalne, Tatjana (eds.). 2026. Database of Latvian Morphemes and Derivational Models (DLMDM). Rīga: University of Latvia. Available at: https://github.com/MorphLatLang/DLMDM

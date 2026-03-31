@@ -4,7 +4,7 @@ Version history of the DLMDM registers will be documented in this file.
 
 ### Current version
 
-Current version: 0.9.0
+Current version: 1.0.0
 
 ### [0.9.0] — 2026-03-02
 #### Pre-release
@@ -13,9 +13,8 @@ Current version: 0.9.0
 - Field documentation added in `docs/README_fields.md`.
 - Repository structure established.
 
-### [1.0.0] — 2026-03-31 (planned)
-#### First stable release
-- Added further word families.
-- Cleanup and consistency.
-- Added affix register.
+### [1.0.0] — 2026-03-31
+#### First release
+- Added word families.
+- Added affix register at `data/`.
 - Expanded documentation in `docs/`.

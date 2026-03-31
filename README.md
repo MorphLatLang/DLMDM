@@ -1,7 +1,7 @@
 ## About
 
-| <img src="images/LU_logo.jpg" width="300"> | <img src="images/project_logo.jpg" width="300"> |
-|----------------------------------------|-----------------------------------------|
+| <img src="images/LU_logo_EN.png" width="200"> | <img src="images/project_logo_EN.png" width="200"> |
+|----------------------------------------------|---------------------------------------------------|
 
 The data published in this repository were prepared at the Department of Latvian and Baltic Studies, Faculty of Humanities, University of Latvia, as part of the project *Database of Latvian Morphemes and Derivational Models (DLMDM)*, project No. lzp-2022/1-0013, funded by the Latvian Council of Science (2023-2026). Project leader:  Dr. philol. Andra Kalnača, Professor at the Department of Latvian and Baltic Studies, Faculty of Humanities, University of Latvia (andra.kalnaca@lu.lv).
 
@@ -9,7 +9,7 @@ The data published in this repository were prepared at the Department of Latvian
 
 Andra Kalnača, Tatjana Pakalne (Editors-in-chief)
 
-Ieva Auziņa, Vanesa Balmane, Anita Butāne, Milan Hoplíček, Daiki Horiguchi, Laura Paula Jansone, Kristīne Levāne‑Petrova, Ilze Lokmane, Paula Miķelsone, Paula Ozola, Inta Urbanoviča.
+Ieva Auziņa, Vanesa Balmane, Anita Butāne, Milan Hoplíček, Daiki Horiguchi, Laura Paula Jansone, Kristīne Levāne‑Petrova, Ilze Lokmane, Paula Miķelsone, Oskars Otomers, Paula Ozola, Inta Urbanoviča.
 
 ## DLMDM Registers
 
@@ -43,4 +43,6 @@ The version history and the current version are stored in the `CHANGELOG.md` fil
 
 ### Citation
 
-If you use these registers in research, please cite the DLMDM project.
+If you use these registers in research, please cite the DLMDM project:
+
+Kalnača, Andra, Pakalne, Tatjana (eds.). 2026. Database of Latvian Morphemes and Derivational Models (DLMDM). Rīga: University of Latvia. Available at: https://github.com/MorphLatLang/DLMDM

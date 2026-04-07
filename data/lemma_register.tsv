@@ -675,9 +675,9 @@ L1399	WF28	SG38	R56	SEMANT:L1398	SEMANT:zilbārdis	Zilbāržs_fem	Zilbārde	(Zil
 L14	WF1	SG1	R1	DERIV:L23	DERIV:ābols	āboliņš	āboliņš	(āb)-ol-iņ-š	NOUN		DERIV	ābols			LVK2018
 L140	WF366,WF5	SG417,SG7	R685,R9	COMP:L145+L9535	COMP:āķis+gals	Āķagals	Āķagals	(Āķ)-a-(gal)-s	PROPN		COMP	āķis+gals	"āķa gals"		LVK2018
 L1400	WF28	SG39	R60			alebarda	alebarda	(alebard)-a	NOUN		NONE				LVK2018
-L1401	WF28	SG40	R61			Borodatijs	Borodatijs	(Borodatij)-s	NOUN		NONE				Tīmeklis2007
-L1402	WF29	SG41	R62			Bardovskis	Bardovskis	(Bardovsk)-is	NOUN		NONE				LVK2022
-L1403	WF29	SG41	R62			Bardovska	Bardovska	(Bardovsk)-a	NOUN		NONE				LVK2022
+L1401	WF28	SG40	R61			Borodatijs	Borodatijs	(Borodatij)-s	PROPN		NONE				Tīmeklis2007
+L1402	WF29	SG41	R62			Bardovskis	Bardovskis	(Bardovsk)-is	PROPN		NONE				LVK2022
+L1403	WF29	SG41	R62			Bardovska	Bardovska	(Bardovsk)-a	PROPN		NONE				LVK2022
 L1404	WF30	SG42	R63			Bardē	Bardē	(Bardē)	PROPN	PropnClass=Indecl	NONE				LVK2022
 L1405	WF31	SG43	R65	DERIV:L1406	DERIV:bardaks	bardaciņš	bardaciņš	(bardac)-iņ-š	NOUN		DERIV	bardaks			LVK2018
 L1406	WF31	SG43	R64			bardaks	bardaks	(bardak)-s	NOUN		NONE				LVK2018
@@ -851,7 +851,7 @@ L1557	WF42	SG54	R86	DERIV:balt	DERIV:UNR	balts	balts	(bal)-t-s	ADJ		DERIV	balt		
 L1558	WF42	SG54	R86	COMP:balti+sārts	COMP:UNR+UNR	baltsārts	baltsārts	(bal)-t-(sārt)-s	ADJ		COMP	balti+sārts	"balti sārts"		LVK2018
 L1559	WF42	SG54	R86	COMP:balti+sidrabots	COMP:UNR+UNR	baltsidrabots	baltsidrabots	(bal)-t-(sidrab)-o-t-s	VERB	VerbForm=Part	COMP	balti+sidrabots	"balti sidrabots"		LVK2018
 L156	WF5	SG7	R9	DERIV:L143	DERIV:āķēt	ieāķēt	ieāķēt	ie-(āķ)-ē-t	VERB		DERIV	āķēt			LVK2018
-L1560	WF42	SG54	R86	DERIV:baltskrēpju	DERIV:UNR	Baltskrēpains	baltskrēpains	(bal)-t-s-(krēp)-ain-s	ADJ		DERIV	baltskrēpju			LVK2018
+L1560	WF42	SG54	R86	DERIV:baltskrēpju	DERIV:UNR	Baltskrēpains	baltskrēpains	(bal)-t-(skrēp)-ain-s	ADJ		DERIV	baltskrēpju			LVK2018
 L1561	WF42	SG54	R86	COMP:L1557+spārns	COMP:balts+UNR	baltspārns	baltspārnu	(bal)-t-(spārn)-u	NOUN	NounClass=Gen	COMP	balts+spārns	"baltu spārnu";"baltiem spārniem"		LVK2018
 L1562	WF42	SG54	R86	COMP:L1557+svītra	COMP:balts+UNR	baltsvītrs	baltsvītru	(bal)-t-(svītr)-u	NOUN	NounClass=Gen	COMP	balts+svītra	"baltu svītru";"baltām svītrām"		LVK2018
 L1563	WF42	SG54	R86	COMP:L1564+L1557	COMP:baltums+balts	baltumbalts	baltumbalts	(bal)-t-um-(bal)-t-s	ADJ		COMP	baltums+balts	"baltumu balts"		LVK2018
@@ -1126,7 +1126,7 @@ L1804	WF74	SG92	R129			bagijs	bagijs	(bagij)-s	NOUN		NONE				LVK2018
 L1805	WF75	SG93	R130			Baals	Baals	(Baal)-s	PROPN		NONE				LVK2018
 L1806	WF75	SG93	R131			Baāls	Baāls	(Baāl)-s	PROPN		NONE				LVK2022
 L1807	WF76	SG94	R132			babass	babass	(babas)-s	NOUN		NONE				LVK2018
-L1808	WF77	SG95	R133			babezioze	babezioze	(babez)-ioz-e	NOUN		NONE				LVK2018
+L1808	WF77	SG95	R133			babezioze	babezioze	(babez)-i-oz-e	NOUN		NONE				LVK2018
 L1809	WF78	SG96	R134			bačats	bačata	(bačat)-a	NOUN		NONE				LVK2018
 L181	WF6	SG8	R10	DERIV:L180;DERIV:L186	DERIV:apārstēt;DERIV:ārstēties	apārstēties	apārstēties	ap-(ārst)-ē-ties	VERB		DERIV	apārstēt;ārstēties			LVK2018
 L1810	WF79	SG97	R135			Badāriešs	badārieši	(badār)-ieš-i	NOUN	NounClass=PlTantum	NONE				LVK2018
@@ -1830,7 +1830,7 @@ L2438	WF119	SG138	R195	DERIV:bezpartijas	DERIV:UNR	bezpartijisks	bezpartijisks	(
 L2439	WF119	SG138	R195	DERIV:bezpases	DERIV:UNR	bezpasnieks	bezpasnieks	(bez)-(pas)-niek-s	NOUN		DERIV	bezpases			LVK2018
 L244	WF7	SG9	R11	COMP:L248+pārkāpējs	COMP:ātrums+UNR	ātrumpārkāpējs	ātrumpārkāpējs	(ātr)-um-pār-(kāp)-ēj-s	NOUN		COMP	ātrums+pārkāpējs	"ātruma pārkāpējs"		LVK2018
 L2440	WF119	SG138	R195	COMP:L2247+patoss	COMP:bez+UNR	bezpatoss	bezpatosa	(bez)-(patos)-a	NOUN	NounClass=Gen	COMP	bez+patoss	"bez patosa"		LVK2018
-L2441	WF119	SG138	R195	DERIV:bezpavalsts	DERIV:UNR	bezpavalstnieks	bezpavalstnieks	(bez)-pa-(valst)-niek-s	NOUN		DERIV	bezpavalsts			LVK2018
+L2441	WF119	SG138	R195	DERIV:bezpavalsts	DERIV:UNR	bezpavalstnieks	bezpavalstnieks	(bez)-(pa)-(valst)-niek-s	NOUN		DERIV	bezpavalsts			LVK2018
 L2442	WF119	SG138	R195	COMP:L2247+pedālis	COMP:bez+UNR	bezpedāļs	bezpedāļu	(bez)-(pedāļ)-u	NOUN	NounClass=Gen	COMP	bez+pedālis	"bez pedāļu"		LVK2018
 L2443	WF119	SG138	R195	COMP:L2247+peļņa	COMP:bez+UNR	bezpeļņas	bezpeļņas	(bez)-(peļņ)-as	NOUN	NounClass=Gen	COMP	bez+peļņa	"bez peļņas"		LVK2018
 L2444	WF119	SG138	R195	COMP:L2247+periods	COMP:bez+UNR	bezperiods	bezperiods	(bez)-(period)-s	NOUN		COMP	bez+periods	"bez perioda"		LVK2018
@@ -4232,7 +4232,7 @@ L4603	WF228	SG253	R369			ciesa	ciesa	(cies)-a	NOUN		NONE				LVK2018
 L4604	WF229	SG254	R370	COMP:trūkums+L4605	COMP:UNR+cietējs	trūkumcietējs	trūkumcietējs	(trūk)-um-(ciet)-ēj-s	NOUN		COMP	trūkums+cietējs	"trūkuma cietējs"		LVK2018
 L4605	WF229	SG254	R370	DERIV:L4622	DERIV:ciest	ciesēja	cietējs	(ciet)-ēj-s	NOUN		DERIV	ciest			LVK2018
 L4606	WF229	SG254	R370	DERIV:L4622	DERIV:ciest	ciesēja_siev	cietēja	(ciet)-ēj-a	NOUN		DERIV	ciest			LVK2018
-L4607	WF229	SG254	R370	DERIV:L4622	DERIV:ciest	cietin	cietin	(ciet)-in	ADV		DERIV	ciest			LVK2018
+L4607	WF229	SG254	R370	DERIV:L4622	DERIV:ciest	cietin	cietin	(cie)-tin	ADV		DERIV	ciest			LVK2018
 L4608	WF229,WF248	SG254,SG274	R370,R408	COMP:L5531+cietis	COMP:daudz+UNR	daudzcietušs	daudzcietis	(daudz)-(ciet)-is	VERB	VerbForm=Part	COMP	daudz+cietis	"daudz cietis"		LVK2018
 L4609	WF229	SG254	R370	COMP:ēna+cietīgs	COMP:UNR+UNR	ēncietīgs	ēncietīgs	(ēn)-(ciet)-īg-s	ADJ		COMP	ēna+cietīgs	"ēnas cietīgs"		LVK2018
 L461	WF10	SG15	R22	COMP:L455+brālis	COMP:asins+UNR	asinsbrālis	asinsbrālis	(asin)-s-(brāl)-is	NOUN		COMP	asins+brālis	"asins brālis"		LVK2018
@@ -4410,7 +4410,7 @@ L4768	WF234	SG259	R379	COMP:L4776+ļaudis	COMP:cits+UNR	citļaužs	citļaužu	(c
 L4769	WF234	SG259	R379	COMP:L4776+pasaule	COMP:cits+UNR	citpasaule	citpasaule	(cit)-(pa)-(saul)-e	NOUN		COMP	cits+pasaule	"cita pasaule"		LVK2018
 L477	WF10	SG15	R22	COMP:L455+kārīgs;DERIV:L478	COMP:asins+UNR;DERIV:asinskārs	asinskārīgs	asinskārīgs	(asin)-s-(kār)-īg-s	ADJ		COMP;DERIV	asins+kārīgs;asinskārs	"asins kārīgs"		LVK2022
 L4770	WF234	SG259	R379	DERIV:L4769	DERIV:citpasaule	citpasaulīgo	citpasaulīgs	(cit)-(pa)-(saul)-īg-s	ADJ		DERIV	citpasaule			LVK2018
-L4771	WF234	SG259	R379	COMP:L4776+pavasaris	COMP:cits+UNR	Citpavasar	citpavasar	(cit)-pa-(vas)-ar	ADV		COMP	cits+pavasaris	"citu pavasari"		LVK2018
+L4771	WF234	SG259	R379	COMP:L4776+pavasaris	COMP:cits+UNR	Citpavasar	citpavasar	(cit)-(pa)-(vas)-ar	ADV		COMP	cits+pavasaris	"citu pavasari"		LVK2018
 L4772	WF234	SG259	R379	DERIV:L4774	DERIV:citplanēta	citplanētiete	citplanētiete	(cit)-(planēt)-iet-e	NOUN		DERIV	citplanēta			LVK2018
 L4773	WF234	SG259	R379	DERIV:L4774	DERIV:citplanēta	citplanētietis	citplanētietis	(cit)-(planēt)-iet-is	NOUN		DERIV	citplanēta			LVK2018
 L4774	WF234	SG259	R379	COMP:L4776+planēta	COMP:cits+UNR	citplanēta	citplanēta	(cit)-(planēt)-a	NOUN		COMP	cits+planēta	"cita planēta"		LVK2022
@@ -4542,9 +4542,9 @@ L4887	WF240	SG265	R391	COMP:ķekars+L4886	COMP:UNR+cukurs	ķekarcukurs	ķekarcuk
 L4888	WF240	SG265	R392			sukurs	sukurs	(sukur)-s	NOUN		NONE				Rainis
 L4889	WF240	SG265	R393	DERIV:L4888	DERIV:sukurs	sukrene	sukrene	(sukr)-en-e	NOUN		DERIV	sukurs			Rainis
 L489	WF10	SG15	R22	COMP:L455+puķe	COMP:asins+UNR	asinspuķe	asinspuķe	(asin)-s-(puķ)-e	NOUN		COMP	asins+puķe	"asins puķe"		LVK2018
-L4890	WF240	SG265	R392	SEMANT:L4888	SEMANT:sukurs	Sukurs	Sukurs	(Sukur)-s	NOUN		SEMANT	sukurs			LVK2022
-L4891	WF240	SG265	R392	SEMANT:L4888	SEMANT:sukurs	Sukure	Sukure	(Sukur)-e	NOUN		SEMANT	sukurs			LVK2022
-L4892	WF240	SG265	R392	SEMANT:L4888	SEMANT:sukurs	Sukura	Sukura	(Sukur)-a	NOUN		SEMANT	sukurs			LitMāksla
+L4890	WF240	SG265	R392	SEMANT:L4888	SEMANT:sukurs	Sukurs	Sukurs	(Sukur)-s	PROPN		SEMANT	sukurs			LVK2022
+L4891	WF240	SG265	R392	SEMANT:L4888	SEMANT:sukurs	Sukure	Sukure	(Sukur)-e	PROPN		SEMANT	sukurs			LVK2022
+L4892	WF240	SG265	R392	SEMANT:L4888	SEMANT:sukurs	Sukura	Sukura	(Sukur)-a	PROPN		SEMANT	sukurs			LitMāksla
 L4893	WF240	SG265	R391	SEMANT:L4886	SEMANT:cukurs	cukurs_propsiev	Cukure	(Cukur)-e	PROPN		SEMANT	cukurs			LVK2022
 L4894	WF240	SG265	R391	SEMANT:L4886	SEMANT:cukurs	cukurs_prop	Cukurs	(Cukur)-s	PROPN		SEMANT	cukurs			LVK2018
 L4895	WF240	SG265	R391	COMP:L4886+salds	COMP:cukurs+UNR	cukursalds	cukursalds	(cukur)-(sald)-s	ADJ		COMP	cukurs+salds	"cukura salds"		LVK2018
@@ -4782,7 +4782,7 @@ L5101	WF245	SG270	R403	DERIV:L5100	DERIV:sīkdaļa	sīkdaļiņa	sīkdaļiņa	(s�
 L5102	WF245	SG270	R403	HYBR:*soc+L5081	HYBR:*soc+nodaļa	socnodaļs	socnodaļa	(soc)-no-(daļ)-a	NOUN		HYBR	*soc+nodaļa			LVK2018
 L5103	WF245	SG270	R403	COMP:starp+L5081	COMP:UNR+nodaļa	starpnodaļs	starpnodaļu	(starp)-no-(daļ)-u	NOUN	NounClass=Gen	COMP	starp+nodaļa	"starp nodaļu"		LVK2018
 L5104	WF245	SG270	R403	COMP:tekstils+L5081	COMP:UNR+nodaļa	tekstilnodaļa	tekstilnodaļa	(tekstil)-no-(daļ)-a	NOUN		COMP	tekstils+nodaļa	"tekstila nodaļa"		LVK2018
-L5105	WF245	SG270	R403	COMP:trešais+L5081	COMP:UNR+nodaļa	trešdaļa	trešdaļa	(treš)-(daļ)-a	NOUN		COMP	trešais+nodaļa	"trešā nodaļa"		LVK2018
+L5105	WF245	SG270	R403	COMP:trešais+L5081	COMP:UNR+nodaļa	trešdaļa	trešdaļa	(treš)-(daļ)-a	NOUN		COMP	trešais+daļa	"trešā daļa"		LVK2018
 L5106	WF245	SG270	R403	DERIV:L5107	DERIV:trīsdaļu	trīsdaļīgs	trīsdaļīgs	(trī)-s-(daļ)-īg-s	ADJ		DERIV	trīsdaļu			LVK2018
 L5107	WF245	SG270	R403	COMP:trīs+L5054	COMP:UNR+daļa	trīsdaļu_genlietv	trīsdaļu	(trī)-s-(daļ)-u	NOUN	NounClass=Gen	COMP	trīs+daļa	"trīs daļu"		LVK2022
 L5108	WF245	SG270	R403	COMP:tūkstotis+L5054	COMP:UNR+daļa	tūkstošdaļa	tūkstošdaļa	(tūkstoš)-(daļ)-a	NOUN		COMP	tūkstotis+daļa	"tūkstoša daļa"		LVK2018
@@ -6284,11 +6284,11 @@ L6454	WF273	SG300	R449	DERIV:L6490	DERIV:dievs	dieviņis	dieviņis	(diev)-iņ-is
 L6455	WF273	SG300	R449	DERIV:L6490	DERIV:dievs	Dieviņis	Dieviņis	(Diev)-iņ-is	PROPN		DERIV	dievs			LatSenRom
 L6456	WF273	SG300	R449	DERIV:L6490	DERIV:dievs	dieviņš	dieviņš	(diev)-iņ-š	NOUN		DERIV	dievs			LVK2018
 L6457	WF273	SG300	R449	DERIV:L6490	DERIV:dievs	Dieviņš	Dieviņš	(Diev)-iņ-š	PROPN		DERIV	dievs			LVK2018
-L6458	WF273	SG300	R449	COMP:L6456+tētītis	COMP:dieviņš+UNR	dieviņtētīt	dieviņtētīt	(diev)-iņ-(tēt)-ī-t	INTJ		COMP	dieviņš+tētītis	"dieviņ, tētīt"		LVK2018
+L6458	WF273	SG300	R449	COMP:L6456+tētītis	COMP:dieviņš+UNR	dieviņtētīt	dieviņtētīt	(diev)-iņ-(tēt)-īt	INTJ		COMP	dieviņš+tētītis	"dieviņ, tētīt"		LVK2018
 L6459	WF273	SG300	R449	DERIV:L6466	DERIV:dievišķs	dievišķi	dievišķi	(diev)-išķ-i	ADV		DERIV	dievišķs			LVK2018
 L646	WF18	SG25	R37	DERIV:L639	DERIV:asfaltēt	neasfaltēt	neasfaltēt	ne-(asfalt)-ē-t	VERB		DERIV	asfaltēt			Tīmeklis2020
 L6460	WF273	SG300	R449	DERIV:L6466	DERIV:dievišķs	dievišķība	dievišķība	(diev)-išķ-īb-a	NOUN		DERIV	dievišķs			LVK2018
-L6461	WF273	SG300	R449	DERIV:L6462	DERIV:dievišķīgs	dievišķīgi	dievišķīgi	(diev)-išķ-īg-i	ADJ		DERIV	dievišķīgs			LVK2018
+L6461	WF273	SG300	R449	DERIV:L6462	DERIV:dievišķīgs	dievišķīgi	dievišķīgi	(diev)-išķ-īg-i	ADV		DERIV	dievišķīgs			LVK2018
 L6462	WF273	SG300	R449	DERIV:L6466	DERIV:dievišķs	dievišķīgs	dievišķīgs	(diev)-išķ-īg-s	ADJ		DERIV	dievišķs			LVK2018
 L6463	WF273	SG300	R449	DERIV:L6462	DERIV:dievišķīgs	dievišķīgums	dievišķīgums	(diev)-išķ-īg-um-s	NOUN		DERIV	dievišķīgs			LVK2018
 L6464	WF273	SG300	R449	DERIV:L6466	DERIV:dievišķs	dievišķot	dievišķot	(diev)-išķ-o-t	VERB		DERIV	dievišķs			LVK2018
@@ -7336,7 +7336,7 @@ L7400	WF297	SG339	R513	DERIV:L7411	DERIV:produktīvs	neproduktīvs	neproduktīvs
 L7401	WF297	SG339	R513	COMP:oriģināls+L7412	COMP:UNR+produkts	oriģinālprodukts	oriģinālprodukts	(oriģin)-āl-(produkt)-s	NOUN		COMP	oriģināls+produkts	"oriģināls produkts"		LVK2018
 L7402	WF297	SG339	R513	COMP:pamats+L7407	COMP:UNR+produkcija	pamatprodukcija	pamatprodukcija	pa-(mat)-(produkc)-ij-a	NOUN		COMP	pamats+produkcija	"pamata produkcija"		LVK2018
 L7403	WF297	SG339	R513	COMP:pamats+L7412	COMP:UNR+produkts	pamatprodukts	pamatprodukts	pa-(mat)-(produkt)-s	NOUN		COMP	pamats+produkts	"pamata produkts"		LVK2018
-L7404	WF297	SG339	R513	COMP:pār+L7407;COMP:pāri+L7407	COMP:UNR+produkcija;COMP:UNR+produkcija	pārprodukcija	pārprodukcija	pār-(produkc)-ij-a	NOUN		COMP	pār+produkcija;pāri+produkcija	"pār produkciju";"pāri produkcijai"		LVK2018
+L7404	WF297	SG339	R513	COMP:pār+L7407;COMP:pāri+L7407	COMP:UNR+produkcija;COMP:UNR+produkcija	pārprodukcija	pārprodukcija	(pār)-(produkc)-ij-a	NOUN		COMP	pār+produkcija;pāri+produkcija	"pār produkciju";"pāri produkcijai"		LVK2018
 L7405	WF297	SG339	R513	COMP:pilots+L7407	COMP:UNR+produkcija	Pilotprodukcija	pilotprodukcija	(pilot)-(produkc)-ij-a	NOUN		COMP	pilots+produkcija	"pilota produkcija"		LVK2018
 L7406	WF297	SG339	R513	COMP:pirmais+L7407	COMP:UNR+produkcija	pirmprodukcija	pirmprodukcija	(pirm)-(produkc)-ij-a	NOUN		COMP	pirmais+produkcija	"pirmā produkcija"		LVK2018
 L7407	WF297	SG339	R513			produkcija	produkcija	(produkc)-ij-a	NOUN		NONE				LVK2018
@@ -9107,7 +9107,7 @@ L90	WF365,WF4	SG416,SG6	R684,R8	DERIV:L91	DERIV:gaišādas	gaišādains	gaišād
 L900	WF26	SG33	R48	SEMANT:L899	SEMANT:vasaraudzis	Vasaraudzis	Vasaraudzis	(Vas)-ar-(audz)-is	PROPN		SEMANT	vasaraudzis			LVK2018
 L9000	WF329	SG379	R614	DERIV:L8992	DERIV:ērce	ērcīte	ērcīte	(ērc)-īt-e	NOUN		DERIV	ērce			LVK2018
 L9001	WF329	SG379	R614	DERIV:saērcēt	DERIV:UNR	saērcēties_verb	saērcēties	sa-(ērc)-ē-ties	VERB		DERIV	saērcēt			Tīmeklis2020
-L9002	WF329	SG379	R614	DERIV:saērcēt	DERIV:UNR	saērcēts_divd	saērcēts	sa-(ērc)-ē-ts	VERB	VerbForm=Part	DERIV	saērcēt			Karogs
+L9002	WF329	SG379	R614	DERIV:saērcēt	DERIV:UNR	saērcēts_divd	saērcēts	sa-(ērc)-ē-t-s	VERB	VerbForm=Part	DERIV	saērcēt			Karogs
 L9003	WF329	SG379	R614	DERIV:L8996	DERIV:ērcināt	saērcināt	saērcināt	sa-(ērc)-inā-t	VERB		DERIV	ērcināt			LVK2018
 L9004	WF329	SG379	R614	DERIV:L9006	DERIV:saērcināts	saērcināti	saērcināti	sa-(ērc)-inā-t-i	ADV		DERIV	saērcināts			LVK2018
 L9005	WF329	SG379	R614	DERIV:L9003	DERIV:saērcināt	saērcināties	saērcināties	sa-(ērc)-inā-ties	VERB		DERIV	saērcināt			Tīmeklis2020
@@ -9176,7 +9176,7 @@ L9061	WF330	SG380	R617	COMP:manta+L9025	COMP:UNR+ēdāja	mantēdāja	mantēdāja
 L9062	WF330	SG380	R617	COMP:maz+L9025	COMP:UNR+ēdāja	mazēdāja_sugasv	mazēdāja	(maz)-(ēd)-āj-a	NOUN		COMP	maz+ēdāja	"maz ēdāja"		Tīmeklis2020
 L9063	WF330	SG380	R617	COMP:maz+L9026	COMP:UNR+ēdājs	mazēdājs_sugasv	mazēdājs	(maz)-(ēd)-āj-s	NOUN		COMP	maz+ēdājs	"maz ēdājs"		LVK2022
 L9064	WF330	SG380	R617	COMP:mezgliņš+L9027	COMP:UNR+ēde	mezgliņēde	mezgliņēde	(mezg)-l-iņ-(ēd)-e	NOUN		COMP	mezgliņš+ēde	"mezgliņu ēde"		LVK2018
-L9065	WF330	SG380	R617	DERIV:L9105;COMP:pa+L9034	DERIV:paēst;COMP:UNR+ēdiens	paēdiens	paēdiens	pa-(ēd)-ien-s	NOUN		DERIV;COMP	paēst;pa+ēdiens	"pa ēdiena"		LVK2018
+L9065	WF330	SG380	R617	DERIV:L9105;COMP:pa+L9034	DERIV:paēst;COMP:UNR+ēdiens	paēdiens	paēdiens	pa-(ēd)-ien-s	NOUN		DERIV	paēst			LVK2018
 L9066	WF330	SG380	R617	DERIV:L9067	DERIV:paēdināt	paēdināšana	paēdināšana	pa-(ēd)-inā-šan-a	NOUN		DERIV	paēdināt			LVK2018
 L9067	WF330	SG380	R617	DERIV:L9036	DERIV:ēdināt	paēdināt	paēdināt	pa-(ēd)-inā-t	VERB		DERIV	ēdināt			LVK2018
 L9068	WF330	SG380	R617	COMP:pamats+L9033	COMP:UNR+ēdienreize	pamatēdienreize	pamatēdienreize	pa-(mat)-(ēd)-ien-(reiz)-e	NOUN		COMP	pamats+ēdienreize	"pamata ēdienreize"		LVK2018
@@ -9767,7 +9767,7 @@ L9594	WF366	SG417	R685	COMP:priekša+L9535	COMP:UNR+gals	priekšgals	priekšgals
 L9595	WF366	SG417	R685	COMP:puse+L9591	COMP:UNR+pirkstgals	puspirkstgals	puspirkstgals	(pus)-(pirkst)-(gal)-s	NOUN		COMP	puse+pirkstgals	"puse pirkstgala"		LVK2018
 L9596	WF366	SG417	R685	COMP:roka+L9535	COMP:UNR+gals	rokgals	rokgals	(rok)-(gal)-s	NOUN		COMP	roka+gals	"rokas gals"		LVK2018
 L9597	WF366	SG417	R685	COMP:sala+L9535	COMP:UNR+gals	Salgale	Salgale	(Sal)-(gal)-e	PROPN		COMP	sala+gals	"salas gals"		LVK2018
-L9598	WF366	SG417	R685	DERIV:L9597	DERIV:Salgale	salgalietis_sugasv	salgalietis	(sal)-(gal)-ietis	NOUN		DERIV	Salgale			Tīmeklis2007
+L9598	WF366	SG417	R685	DERIV:L9597	DERIV:Salgale	salgalietis_sugasv	salgalietis	(sal)-(gal)-iet-is	NOUN		DERIV	Salgale			Tīmeklis2007
 L9599	WF366	SG417	R685	DERIV:L9597	DERIV:Salgale	salgalnieks_sugasv	salgalnieks	(sal)-(gal)-niek-s	NOUN		DERIV	Salgale			Ziņas
 L96	WF4	SG6	R8	COMP:jērs+L64	COMP:UNR+āda	jērāda	jērāda	(jēr)-(ād)-a	NOUN		COMP	jērs+āda	"jēra āda"		LVK2018
 L960	WF26	SG34	R50	COMP:L965+prāts	COMP:augsts+UNR	augstprāts_sugasv	augstprāts	(augst)-(prāt)-s	NOUN		COMP	augsts+prāts	"augsts prāts"		Tīmeklis2020
@@ -9998,8 +9998,8 @@ L9801	WF369	SG420	R689	COMP:ūdens+L9675	COMP:UNR+galva	ūdensgalva	ūdensgalva	
 L9802	WF369	SG420	R689	DERIV:zaļgalvas	DERIV:UNR	Zaļgalvains	zaļgalvains	(zaļ)-(galv)-ain-s	ADJ		DERIV	zaļgalvas			LVK2018
 L9803	WF369	SG420	R689	DERIV:zaļgalvas	DERIV:UNR	zaļgalve_siev	zaļgalve	(zaļ)-(galv)-e	NOUN		DERIV	zaļgalvas			LatSenRom
 L9804	WF369	SG420	R689	DERIV:zaļgalvas	DERIV:UNR	zaļgalvis_vīr	zaļgalvis	(zaļ)-(galv)-is	NOUN		DERIV	zaļgalvas			Jaunatne
-L9805	WF369	SG420	R689	SEMANT:L9808	SEMANT:zeltgalve	Zelgalve_propn	Zelgalve	(Zel)-(galv)-e	NOUN		SEMANT	zeltgalve		zelgalve<zeltgalve	LVK2022
-L9806	WF369	SG420	R689	SEMANT:L9809	SEMANT:zeltgalvis	Zelgalvis_propn	Zelgalvis	(Zel)-(galv)-is	NOUN		SEMANT	zeltgalvis		zelgalvis<zeltgalvis	LVK2022
+L9805	WF369	SG420	R689	SEMANT:L9808	SEMANT:zeltgalve	Zelgalve_propn	Zelgalve	(Zel)-(galv)-e	PROPN		SEMANT	zeltgalve		zelgalve<zeltgalve	LVK2022
+L9806	WF369	SG420	R689	SEMANT:L9809	SEMANT:zeltgalvis	Zelgalvis_propn	Zelgalvis	(Zel)-(galv)-is	PROPN		SEMANT	zeltgalvis		zelgalvis<zeltgalvis	LVK2022
 L9807	WF369	SG420	R689	COMP:zelt+L9675	COMP:UNR+galva	zeltgalvas_gen	zeltgalvas	(zelt)-(galv)-as	NOUN	NounClass=Gen	COMP	zelt+galva	"zelta galvas"		Vikipēdija
 L9808	WF369	SG420	R689	DERIV:L9807	DERIV:zeltgalvas	zeltgalve_siev	zeltgalve	(zelt)-(galv)-e	NOUN		DERIV	zeltgalvas			LitMāksla
 L9809	WF369	SG420	R689	DERIV:L9807	DERIV:zeltgalvas	zeltgalvis_vīr	zeltgalvis	(zelt)-(galv)-is	NOUN		DERIV	zeltgalvas			Tīmeklis2020
@@ -10076,7 +10076,7 @@ L9872	WF373	SG426	R695	OTHER:L9880	OTHER:garām	gar	gar	(gar)	ADP		OTHER	garām	
 L9873	WF373	SG426	R695	DERIV:L9867	DERIV:garaste	garastīte	garastīte	(gar)-(as)-t-īt-e	NOUN		DERIV	garaste			LVK2018
 L9874	WF373	SG426	R695	DERIV:L9879	DERIV:garausu	garausains	garausains	(gar)-(aus)-ain-s	ADJ		DERIV	garausu			LVK2018
 L9875	WF373	SG426	R695	SEMANT:L9876	SEMANT:garause	Garause_propn	Garause	(Gar)-(aus)-e	PROPN		SEMANT	garause			Barometrs
-L9876	WF373	SG426	R695	DERIV:L9879	DERIV:garausu	garause_sugasv	garause	(gar)-(aus)-e	PROPN		DERIV	garausu			Tīmeklis2020
+L9876	WF373	SG426	R695	DERIV:L9879	DERIV:garausu	garause_sugasv	garause	(gar)-(aus)-e	NOUN		DERIV	garausu			Tīmeklis2020
 L9877	WF373	SG426	R695	SEMANT:L9878	SEMANT:garausis	Garausis_propn	Garausis	(Gar)-(aus)-is	PROPN		SEMANT	garausis			Ziņas
 L9878	WF373	SG426	R695	DERIV:L9879	DERIV:garausu	garausis	garausis	(gar)-(aus)-is	NOUN		DERIV	garausu			LVK2018
 L9879	WF373	SG426	R695	COMP:L9949+auss	COMP:garš+UNR	garausu_gen	garausu	(gar)-(aus)-u	NOUN	NounClass=Gen	COMP	garš+auss	"garu ausu"		Tīmeklis2020
@@ -10099,14 +10099,14 @@ L9893	WF373	SG426	R695	COMP:L9899+fasāde	COMP:garens+UNR	garenfasāde	garenfas�
 L9894	WF373	SG426	R695	COMP:L9899+formāts	COMP:garens+UNR	garenformāts	garenformāts	(gar)-en-(formāt)-s	NOUN		COMP	garens+formāts	"garens formāts"		LVK2018
 L9895	WF373	SG426	R695	COMP:L9899+griezums	COMP:garens+UNR	garengriezums	garengriezums	(gar)-en-(griez)-um-s	NOUN		COMP	garens+griezums	"garens griezums"		LVK2018
 L9896	WF373	SG426	R695	DERIV:L9899	DERIV:garens	gareni_adv	gareni	(gar)-en-i	ADV		DERIV	garens			Tīmeklis2020
-L9897	WF373	SG426	R695	DERIV:L9898	DERIV:garenisks	gareniski	gareniski	(gar)-en-(isk)-i	ADV		DERIV	garenisks			LVK2018
+L9897	WF373	SG426	R695	DERIV:L9898	DERIV:garenisks	gareniski	gareniski	(gar)-en-isk-i	ADV		DERIV	garenisks			LVK2018
 L9898	WF373	SG426	R695	DERIV:L9899	DERIV:garens	garenisks	garenisks	(gar)-en-isk-s	ADJ		DERIV	garens			LVK2018
 L9899	WF373	SG426	R695	DERIV:L9949	DERIV:garš	garens	garens	(gar)-en-s	ADJ		DERIV	garš			LVK2018
 L99	WF4	SG6	R8	COMP:krokodils+L64	COMP:UNR+āda	krokodilāda	krokodilāda	(krokodil)-(ād)-a	NOUN		COMP	krokodils+āda	"krokodila āda"		LVK2018
 L990	WF26	SG34	R50	DERIV:L989	DERIV:rekordaugsts	rekordaugsti_adv	rekordaugsti	(rekord)-(augst)-i	ADV		DERIV	rekordaugsts			LVK2022
 L9900	WF373	SG426	R695	COMP:L9899+siena	COMP:garens+UNR	garensiena	garensiena	(gar)-en-(sien)-a	NOUN		COMP	garens+siena	"garena siena"		LVK2018
 L9901	WF373,WF385	SG426,SG443	R695,R714	COMP:L9949+L10069	COMP:garš+grauds	gargrauds	gargraudu	(gar)-(graud)-u	NOUN	NounClass=Gen	COMP	garš+grauds	"garu graudu"		LVK2018
-L9902	WF373	SG426	R695	DERIV:L9949	DERIV:garš	gari	gari	(gar)-i	ADJ		DERIV	garš			LVK2018
+L9902	WF373	SG426	R695	DERIV:L9949	DERIV:garš	gari	gari	(gar)-i	ADV		DERIV	garš			LVK2018
 L9903	WF373	SG426	R695	DERIV:L9949	DERIV:garš	garināt_verb	garināt	(gar)-inā-t	VERB		DERIV	garš			Tīmeklis2020
 L9904	WF373	SG426	R695	COMP:L9949+kakls	COMP:garš+UNR	garkakla_gen	garkakla	(gar)-(kakl)-a	NOUN	NounClass=Gen	COMP	garš+kakls	"gara kakla"		LVK2022
 L9905	WF373	SG426	R695	DERIV:L9904	DERIV:garkakla	garkaklains	garkaklains	(gar)-(kakl)-ain-s	ADJ		DERIV	garkakla			LVK2018

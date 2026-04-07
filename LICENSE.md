@@ -15,5 +15,4 @@ https://creativecommons.org/licenses/by/4.0/
 
 If you use this dataset in research, teaching, or applications, please cite the DLMDM project:
 
-
-Kalnača, Andra, Pakalne, Tatjana (eds.). 2026. Database of Latvian Morphemes and Derivational Models (DLMDM). Rīga: University of Latvia. Available at: https://github.com/MorphLatLang/DLMDM
+Kalnača, Andra, Pakalne, Tatjana (eds.). 2026. Database of Latvian Morphemes and Derivational Models (DLMDM). Rīga: University of Latvia. http://hdl.handle.net/20.500.12574/155

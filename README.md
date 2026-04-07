@@ -23,6 +23,7 @@ Ieva Auziņa, Vanesa Balmane, Anita Butāne, Milan Hoplíček, Daiki Horiguchi, 
 
 - [Root register](https://morphlatlang.github.io/DLMDM/visual/root_register.html)
 - [Affix register](https://morphlatlang.github.io/DLMDM/visual/affix_register.html)
+- [Word-family graph visualizations (beta)](https://morphlatlang.github.io/DLMDM/visual/word_family_graphs.html)
 
 ## Documentation
 

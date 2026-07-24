@@ -63,3 +63,7 @@ Kalnača, Andra, Pakalne, Tatjana (eds.). 2026. Database of Latvian Morphemes an
 ### Questions and comments
 
 E-mail: andra.kalnaca@lu.lv, tatjana.pakalne@lu.lv
+
+© University of Latvia, 2026
+
+© Andra Kalnača, Tatjana Pakalne, Ieva Auziņa, Vanesa Balmane, Anita Butāne, Milan Hoplíček, Daiki Horiguchi, Laura Paula Jansone, Kristīne Levāne‑Petrova, Ilze Lokmane, Paula Miķelsone, Oskars Otomers, Paula Ozola, Inta Urbanoviča, 2026
